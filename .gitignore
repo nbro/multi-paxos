@@ -1,0 +1,11 @@
+/target
+**/*.rs.bk
+Cargo.lock
+.idea
+multi-paxos.iml
+tests/learn1
+tests/learn2
+tests/prop1
+tests/prop2
+tests/prop.sorted
+

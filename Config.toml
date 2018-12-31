@@ -1,0 +1,19 @@
+[clients]
+host = "239.0.0.1"
+port = "5000"
+size = 1
+
+[proposers]
+host = "239.0.0.1"
+port = "6000"
+size = 1
+
+[acceptors]
+host = "239.0.0.1"
+port = "7000"
+size = 3
+
+[learners]
+host = "239.0.0.1"
+port = "8000"
+size = 1
